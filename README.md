@@ -25,8 +25,8 @@ This is a css grid challenge from Frontendmentor.io. Only HTML and CSS have been
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/avrojp/frontendmentor-css-grid-challenge)
+- Live Site URL: (https://avrojp.github.io/frontendmentor-css-grid-challenge/)
 
 ## My process
 
@@ -56,6 +56,5 @@ Below lines defines what have been learned during this project.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@avrojp](https://www.frontendmentor.io/profile/avrojp)
 
